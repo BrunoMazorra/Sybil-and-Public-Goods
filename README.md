@@ -10,3 +10,7 @@ In the realm of cost-sharing mechanisms, the vulnerability to Sybil strategies â
 - We prove that the cost-sharing mechanism for public excludable goods with constant cost functions such as the Shapley value mechanism, the VCG mechanism for public excludable goods, and the potential mechanism are not truthful under Sybil strategies (i.e. are not Sybil-proof). 
 - Moreover, in theorem 3.6 we prove that cost-sharing mechanisms with constant cost functions that are strong-monotonic, anonymous, individually rational, and Sybil-proof have worst-case welfare social cost bounded by $(n/2+1)$.
 - Finally, we introduce Sybil welfare invariant mechanisms, and we prove that the Shapley value mechanism for non-decreasing symmetric and submodular cost-functions holds this property. 
+
+
+## Interactive
+https://chat.openai.com/g/g-zDXKGC2P9-sybil-welfare-invariant-mechanism-explained
